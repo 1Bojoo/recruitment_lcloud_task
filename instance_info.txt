@@ -1,0 +1,7 @@
+Instance ID: i-04a896d7cd20aa9b8
+Public IP: 79.125.60.146
+Private IP: 172.31.15.121
+Security Gropus: r4p17-sg
+Operating System: PRETTY_NAME="Ubuntu 24.04.1 LTS"
+Users: root
+ubuntu
